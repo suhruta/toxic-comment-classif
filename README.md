@@ -12,3 +12,5 @@ Considering it has become such an essential resource, quality of life is affecte
 This work attempts to compare and contrast different classic Machine Learning Algorithm performances (with more traditional methods like Bag-of-words and TF-IDF) with various Neural Network Architectures and Word Embeddings (GloVe, Word2Vec and FastText). This work also studies the performance of data-specific embeddings (as opposed to pre-trained embeddings) i.e, Embeddings trained on the Toxic Comment Corpus obtained from Kaggle's competition.
 
 Kaggle Competition link: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview 
+
+In the chance the ipynb file times out or shows an error, use this link the access my source code: https://nbviewer.org/github/suhruta/toxic-comment-classif/blob/main/Capstone_TCC.ipynb
